@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartMemoryGame", "CartMemoryGame\CartMemoryGame.csproj", "{410DB810-EE13-42FB-963A-C2D03495AE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410DB810-EE13-42FB-963A-C2D03495AE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410DB810-EE13-42FB-963A-C2D03495AE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410DB810-EE13-42FB-963A-C2D03495AE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410DB810-EE13-42FB-963A-C2D03495AE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3967330-5FA9-4485-BB8A-412BFD352212}
+	EndGlobalSection
+EndGlobal
